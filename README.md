@@ -1,21 +1,20 @@
-# XIAOQING's Programming Example Collection
+# XIAOQING的编程作品集
 
-(English part from Google Translate)
-## Description(English)
-This Github repository contains some of my programming work.Most of them are Python programs🐍.They are very small programs.There are comments (Chinese) in the python program code to facilitate writing program.Feel free to explore the scripts and use them for your learning!
+这个GitHub库有一些我的编程作品。目前都是Python🐍程序。
 
-I'm not a professional programmer, just an amateur. I create these programs purely for fun. Due to my busy schedule, I don't have much time to continue learning and writing programs.
+这些程序不是.exe格式,而是.py,这样的格式,这些Python程序只能在安装Python解释器的设备中运行。**因此确保你的电脑🖥️安装了Python🐍,且最好为3.11版本后再运行程序**。你可以直接打开程序的源代码并修改它。你可以随意修改它并发布在其他地方。若你能注明项目的GitHub链接，非常感谢😀!
 
-If there is an error in the code, or there is something that can be modified in the code, please tell me, thank you.😃
+若您发现了Bug,或有意见和建议,[点击这里](https://github.com/XIAOQINGeq/XIAOQING_Programming/issues)。
 
----
-## 描述
+***
 
-这个GitHub储存库包含了我的一些编程作品。它们大多数都是Python程序🐍。它们都是很小的程序。在程序中会有注释(简体中文)，方便编写。请随意探索这些脚本并使用它们来满足您的学习需求！
+敲代码不是我的主业,我只是一个业余爱好者。由于学业繁忙,我很少有时间可以使用电脑,该储存库可能不会更新。
 
-我不是专业程序员，只是业余爱好者。 我创建这些程序纯粹是为了好玩。 由于学业繁忙，我没有太多时间继续学习和编写程序。
+中式教育这样的教育系统是错误的,失败的!!!
 
-如果代码有错误，或者代码中有可以修改的地方，请告诉我，谢谢。😃
+
+
+
 
 
 
